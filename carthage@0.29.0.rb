@@ -1,6 +1,6 @@
 # https://raw.githubusercontent.com/Homebrew/homebrew-core/45dd24d8dfa7a2fb69812c678ceb34be0c16e295/Formula/carthage.rb
 
-class CarthageAT029 < Formula
+class CarthageAT0290 < Formula
   desc "Decentralized dependency manager for Cocoa"
   homepage "https://github.com/Carthage/Carthage"
   url "https://github.com/Carthage/Carthage.git",
